@@ -1,0 +1,6 @@
+projectKey=fintech1
+serverUrl=http://54.69.123.185:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://54.69.123.185:9000/dashboard?id=fintech1
+ceTaskId=51a4aed5-b715-474a-a983-604940e464a4
+ceTaskUrl=http://54.69.123.185:9000/api/ce/task?id=51a4aed5-b715-474a-a983-604940e464a4

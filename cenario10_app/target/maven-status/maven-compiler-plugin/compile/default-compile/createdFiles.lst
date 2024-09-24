@@ -1,0 +1,10 @@
+com/fintechinnovations/repositories/PagamentoRepository.class
+com/fintechinnovations/controllers/InvestimentoController.class
+com/fintechinnovations/repositories/TransferenciaRepository.class
+com/fintechinnovations/FinTechInnovationsApplication.class
+com/fintechinnovations/models/Transferencia.class
+com/fintechinnovations/models/Investimento.class
+com/fintechinnovations/repositories/InvestimentoRepository.class
+com/fintechinnovations/models/Pagamento.class
+com/fintechinnovations/controllers/PagamentoController.class
+com/fintechinnovations/controllers/TransferenciaController.class
